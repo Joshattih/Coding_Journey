@@ -1,2 +1,10 @@
-# Coding_Journey
-I am on a journey to learn how to think and code better and moving away from the youtube-static tutorials which only induce the copy-cut coding behavior
+# My Coding Journey
+
+## Why I'm Here
+I'm tired of copying code without understanding. I want to build real things and understand every single character I type.
+
+## What I'm Learning
+- [ ] Python fundamentals (but actually understanding them)
+- [ ] How to think like a programmer, not a copy-paster
+- [ ] Building tools for my PhD research
+
